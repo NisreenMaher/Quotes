@@ -1,0 +1,37 @@
+.ul_types {
+    margin-top: -5px;
+}
+
+.ul_types li {
+    display: inline;
+}
+
+.label-text {
+    font-size: 1rem;
+}
+
+.pokemonBox {
+    padding: 1rem 1rem;
+    border-radius: 7px;
+    margin: 0.75rem 0;
+}
+
+.switch label input[type="checkbox"]:checked+.lever {
+    background-color: indigo;
+}
+
+.progress {
+    height: 22px;
+    border-radius: 7px;
+}
+
+.ul_moves {
+    columns: 5;
+}
+
+.modal {
+    max-height: 99%;
+    width: 72%;
+    top: 0% !important;
+    border-radius: 5px;
+}
